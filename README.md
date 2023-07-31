@@ -8,7 +8,7 @@
 
 <p align='center'>
   👀 I’m looking for software engineering and AI/ML internship opportunities anywhere in the US<br/>
-  🌱 I’m currently learning about .NET development & the Microsoft stack for my internship. I'm also learning about generative diffusion models in PyTorchfor my research currently!<br/>
+  🌱 I’m currently learning about .NET development & the Microsoft stack for my internship. I'm also learning about generative diffusion models in PyTorch for my research currently!<br/>
 </p>
 
 <h2 align='center'>
