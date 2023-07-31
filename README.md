@@ -11,6 +11,20 @@
   🌱 I’m currently learning about .NET development & the Microsoft stack for my internship. I'm also learning about generative diffusion models in PyTorchfor my research currently!<br/>
 </p>
 
+<h2 align='center'>
+  Let's get in touch!<br/>
+</h2>
+
+<p align='center'>             
+  <a href="http://www.twitter.com/akshaysashok">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akshayashok1">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;<br/>
+  📫 Email me at akshayashok@ufl.edu
+</p>
+
 <!--
 **AkshayAshok2/AkshayAshok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
