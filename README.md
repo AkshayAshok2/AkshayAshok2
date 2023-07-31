@@ -6,7 +6,7 @@
   I'm a Junior at the University of Florida studying Computer Science! :crocodile:
 </h3>
 
-<p align='center'>
+<p align='left'>
   👀 I’m looking for software engineering and AI/ML internship opportunities anywhere in the US<br/>
   🌱 I’m currently learning about .NET development & the Microsoft stack for my internship. I'm also learning about generative diffusion models in PyTorch for my research!<br/>
 </p>
