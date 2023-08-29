@@ -25,6 +25,10 @@
   📫 Email me at akshayashok@ufl.edu
 </p>
 
+<p align='left'>
+  <b>Note: </b>if this GitHub seems like it is lacking commits, it's because most of my commits are done for work (internships), research, or school, most content from which cannot be posted due to being proprietary software and course assignments/projects.
+</p>
+
 <!--
 **AkshayAshok2/AkshayAshok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
