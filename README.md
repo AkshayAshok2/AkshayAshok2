@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/akshayashok1">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;<br/>
-  📫 Email me at akshayashok@ufl.edu
+  📫 Email me at akshay.sun.ashok@gmail.com
 </p>
 
 <p align='left'>
