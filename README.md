@@ -8,7 +8,7 @@
 
 <p align='left'>
   👀 I’m looking for software engineering and AI/ML internship opportunities anywhere in the US<br/>
-  🌱 I’m currently learning about .NET development & the Microsoft stack for my internship. I'm also learning about generative diffusion models in PyTorch for my research!<br/>
+  🌱 I’m currently learning about ML theory and AI for simulations/games in my coursework. I'm also learning about generative models such as GANs for research and other projects!<br/>
 </p>
 
 <h2 align='center'>
