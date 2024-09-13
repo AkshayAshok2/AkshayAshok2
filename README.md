@@ -26,7 +26,7 @@
 </p>
 
 <p align='left'>
-  <b>Note: </b>if this GitHub seems like it is lacking commits, it's because most of my commits are done for work (internships), research, or school, most content from which cannot be posted due to being proprietary software and course assignments/projects.
+  <b>Note: </b>if this GitHub seems like it is lacking commits, it's because most of my commits are done for work (internships), research, or school, most content from which cannot be posted due to being proprietary software.
 </p>
 
 <!--
