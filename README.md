@@ -8,7 +8,7 @@
 
 <p align='left'>
   👀 I’m looking for software engineering and AI/ML new-grad opportunities anywhere in the US<br/>
-  🌱 I’m currently learning about computer networks, NLP, and the intersection of AI and neuroscience in my coursework. I'm also working with computer vision for emotional inference, NLP for document search and processing, and terabyte-scale data processing for research and other projects!<br/>
+  🌱 I’m currently learning about computer networks, NLP, and the intersection of AI and neuroscience in my coursework. I'm also working with computer vision for emotional inference (research), NLP for document search and processing (startup), and terabyte-scale data processing in AWS (startup)!<br/>
 </p>
 
 <h2 align='center'>
