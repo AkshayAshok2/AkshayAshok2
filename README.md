@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align='center'>
-  I'm a senior at the University of Florida studying Computer Science! :crocodile:
+  I'm a recent Computer Science grad from the University of Florida! :crocodile:
 </h3>
 
 <p align='left'>
   👀 I’m looking for software engineering and AI/ML new-grad opportunities anywhere in the US<br/>
-  🌱 I’m currently learning about compilers, computer networks, NLP, and the intersection of AI and neuroscience in my coursework. I'm also working with NLP for document search and processing (startup) and terabyte-scale data processing in AWS (startup)!<br/>
+  🌱 I’m currently working with NLP for document search/processing and terabyte-scale data processing in AWS for my startup!<br/>
 </p>
 
 <h2 align='center'>
