@@ -7,7 +7,7 @@
 </h3>
 
 <p align='left'>
-  👀 I’m looking for software engineering and AI/ML new-grad opportunities anywhere in the US---particularly at startups and unicorns.<br/>
+  👀 I’m looking for software engineering and AI/ML new-grad opportunities anywhere in the US&mdash;particularly at startups and unicorns.<br/>
   🌱 I’m currently working with NLP for document search/processing and terabyte-scale data processing in AWS for my startup!<br/>
 </p>
 
